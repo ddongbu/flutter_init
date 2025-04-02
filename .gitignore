@@ -80,3 +80,4 @@ ios/Runner/GoogleService-Info.plist
 android/app/google-services.json
 firebase.json
 .gitignore
+pubspec.yaml
