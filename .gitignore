@@ -74,3 +74,9 @@ lib/generated_plugin_registrant.dart
 # End of https://www.toptal.com/developers/gitignore/api/flutter,firebase
 android/gradle/wrapper/gradle-wrapper.properties
 test/widget_test.dart
+lib/firebase_options.dart
+ios/Runner.xcodeproj/project.pbxproj
+ios/Runner/GoogleService-Info.plist
+android/app/google-services.json
+firebase.json
+.gitignore
